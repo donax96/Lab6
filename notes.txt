@@ -1,0 +1,14 @@
+Il programma prende da riga di comando come primo parametro il path del video,
+come secondo il path della cartella con le immagine dei libri 
+
+Le variabili interne alla classe forse non sono tutte necessarie, ma per
+il momento le ho lasciate, poi si potranno togliere
+
+Il vettore di vettori per i keypoints e il vettore per i descriptors del primo
+frame del video sono inutili visto che per il momento erano necessari
+solo per il primo frame, ma per il momento ho lasciato così
+
+Con il libro blu il disegno del rettangolo non viene perfetto, proverò a cambiare
+ancora i parametri
+
+Non ho fatto il cmake
